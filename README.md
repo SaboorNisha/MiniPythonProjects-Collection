@@ -9,14 +9,11 @@ This repo contains a collection of small, fun, and educational Python projects t
 
 ## Projects Included
 - **Project 1**: ATM-Simulator  
-- **Project 2**: Music-Player 
-- **Project 3**: Personal_Portfolio  
+- **Project 2**: CRUD App
+- **Project 3**: Music-Player  
 - **Project 4**: Random_Password_generator  
-- **Project 5**: Responsive_landing_page
-- **Project 6**: Stopwatch_WebApplication
-- **Project 7**: Tic-Tac-Toe_WebApplication
-- **Project 8**: Voice-Assistant
-- **Project 9**: Weather_App
+- **Project 5**: Voice-Assistant
+- 
 
 > **Note:** Each project is standalone and can be easily run on your local machine. Check the individual project folders for detailed instructions.
 
